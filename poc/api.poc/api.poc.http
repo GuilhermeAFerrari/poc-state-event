@@ -1,0 +1,6 @@
+@api.poc_HostAddress = http://localhost:5290
+
+GET {{api.poc_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
